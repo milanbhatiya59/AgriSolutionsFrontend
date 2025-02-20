@@ -1,4 +1,4 @@
-import AuthPage from "../auth/page";
+import AuthPage from "../../../utils/AuthButton";
 
 export default function Navbar(){
     return (
